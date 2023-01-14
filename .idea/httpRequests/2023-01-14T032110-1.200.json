@@ -1,0 +1,8 @@
+{
+  "id": 1,
+  "name": "Hasan",
+  "email": "hasan@gmail.com",
+  "gender": "male",
+  "createdAt": "2023-01-13T20:09:56.000Z",
+  "updatedAt": "2023-01-13T20:21:09.000Z"
+}

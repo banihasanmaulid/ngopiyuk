@@ -1,0 +1,356 @@
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "Bani",
+  "email": "bani@gmail.com",
+  "gender": "male"
+}
+
+<> 2023-01-14T033211.201.json
+
+###
+
+GET http://localhost:8080/users
+
+<> 2023-01-14T033159.200.json
+
+###
+
+GET http://localhost:8080/users
+
+<> 2023-01-14T033142.200.json
+
+###
+
+DELETE http://localhost:8080/users/2
+
+<> 2023-01-14T033137.200.json
+
+###
+
+GET http://localhost:8080/users
+
+<> 2023-01-14T033121.200.json
+
+###
+
+DELETE http://localhost:8080/users/1
+
+<> 2023-01-14T033111.200.json
+
+###
+
+GET http://localhost:8080/users
+
+<> 2023-01-14T033049.200.json
+
+###
+
+GET http://localhost:8080/users/1
+
+<> 2023-01-14T033024.200.json
+
+###
+
+GET http://localhost:8080/users/1
+
+<> 2023-01-14T033011.200.json
+
+###
+
+GET http://localhost:8080/users
+
+<> 2023-01-14T033009.200.json
+
+###
+
+GET http://localhost:8080/users/1
+
+<> 2023-01-14T033007.200.json
+
+###
+
+GET http://localhost:8080/users
+
+<> 2023-01-14T033005.200.json
+
+###
+
+GET http://localhost:8080/users
+
+<> 2023-01-14T033001.200.json
+
+###
+
+GET http://localhost:8080/users/1
+
+<> 2023-01-14T032859.200.json
+
+###
+
+GET http://localhost:8080/users
+
+<> 2023-01-14T032854.200.json
+
+###
+
+GET http://localhost:8080/users/1
+
+<> 2023-01-14T032826.200.json
+
+###
+
+GET http://localhost:8080/users
+
+<> 2023-01-14T032825.200.json
+
+###
+
+GET http://localhost:8080/users/1
+
+<> 2023-01-14T032808-2.200.json
+
+###
+
+GET http://localhost:8080/users
+
+<> 2023-01-14T032808-1.200.json
+
+###
+
+GET http://localhost:8080/users
+
+<> 2023-01-14T032808.200.json
+
+###
+
+GET http://localhost:8080/users
+
+<> 2023-01-14T032805.200.json
+
+###
+
+GET http://localhost:8080/users/1
+
+<> 2023-01-14T032803.200.json
+
+###
+
+GET http://localhost:8080/users/1
+
+<> 2023-01-14T032802.200.json
+
+###
+
+GET http://localhost:8080/users/1
+
+<> 2023-01-14T032800.200.json
+
+###
+
+GET http://localhost:8080/users/1
+
+<> 2023-01-14T032758.200.json
+
+###
+
+GET http://localhost:8080/users
+
+<> 2023-01-14T032750.200.json
+
+###
+
+GET http://localhost:8080/users
+
+<> 2023-01-14T032655-2.200.json
+
+###
+
+GET http://localhost:8080/users/1
+
+<> 2023-01-14T032655-1.200.json
+
+###
+
+GET http://localhost:8080/users
+
+<> 2023-01-14T032655.200.json
+
+###
+
+GET http://localhost:8080/users/1
+
+<> 2023-01-14T032556.200.json
+
+###
+
+GET http://localhost:8080/users
+
+<> 2023-01-14T032555.200.json
+
+###
+
+GET http://localhost:8080/users
+
+<> 2023-01-14T032543.200.json
+
+###
+
+DELETE http://localhost:8080/users/1
+
+<> 2023-01-14T032313.200.json
+
+###
+
+GET http://localhost:8080/users
+
+<> 2023-01-14T032122.200.json
+
+###
+
+DELETE http://localhost:8080/users/1
+Content-Type: application/json
+
+{
+  "name": "Hasan",
+  "email": "hasan@gmail.com",
+  "gender": "male"
+}
+
+<> 2023-01-14T032111.200.json
+
+###
+
+PATCH http://localhost:8080/users/1
+Content-Type: application/json
+
+{
+  "name": "Hasan",
+  "email": "hasan@gmail.com",
+  "gender": "male"
+}
+
+<> 2023-01-14T032110-2.200.json
+
+###
+
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "Bani",
+  "email": "bani@gmail.com",
+  "gender": "male"
+}
+
+<> 2023-01-14T032110.201.json
+
+###
+
+GET http://localhost:8080/users/1
+
+<> 2023-01-14T032110-1.200.json
+
+###
+
+GET http://localhost:8080/users
+
+<> 2023-01-14T032110.200.json
+
+###
+
+PATCH http://localhost:8080/users/1
+Content-Type: application/json
+
+{
+  "name": "Hasan",
+  "email": "hasan@gmail.com",
+  "gender": "male"
+}
+
+<> 2023-01-14T032109-2.200.json
+
+###
+
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "Bani",
+  "email": "bani@gmail.com",
+  "gender": "male"
+}
+
+<> 2023-01-14T032109.201.json
+
+###
+
+GET http://localhost:8080/users/1
+
+<> 2023-01-14T032109-1.200.json
+
+###
+
+GET http://localhost:8080/users
+
+<> 2023-01-14T032109.200.json
+
+###
+
+GET http://localhost:8080/users
+
+<> 2023-01-14T032104.200.json
+
+###
+
+GET http://localhost:8080/users
+
+<> 2023-01-14T032028.200.json
+
+###
+
+GET http://localhost:8080/users
+
+<> 2023-01-14T032021.200.json
+
+###
+
+GET http://localhost:8080/users
+
+<> 2023-01-14T031920.200.json
+
+###
+
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "Bani",
+  "email": "bani@gmail.com",
+  "gender": "male"
+}
+
+<> 2023-01-14T031855.201.json
+
+###
+
+PATCH http://localhost:8080/users/1
+Content-Type: application/json
+
+{
+  "name": "Hasan",
+  "email": "hasan@gmail.com",
+  "gender": "male"
+}
+
+<> 2023-01-14T031810.200.json
+
+###
+
+GET http://localhost:8080/users
+
+<> 2023-01-14T031100.200.json
+
+###
+
